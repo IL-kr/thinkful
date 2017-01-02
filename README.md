@@ -4,7 +4,7 @@ visit: http://olojedewilliam.me/thinkful/
 
 # Challenge: Build a Resume with Semantic HTML
 ##Specs:
-*. There should be a contact info section.
+* There should be a contact info section.
 	1. Name
 	2. Email address (make one up) as a link
 	3. Phone number (make one up)
