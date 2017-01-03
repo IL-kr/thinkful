@@ -11,3 +11,7 @@ visit: http://olojedewilliam.me/thinkful/
 	4. A picture
 * There should be a education section.
 * There shold be a employment history section.
+	1.  company name.
+	2.  job title. 
+	3.  dates of employment
+	4.  short description
